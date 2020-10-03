@@ -1,3 +1,4 @@
-# Шаблоны заданий для [практикума по Питону](https://github.com/Dementiy/Dementiy.github.io)
-
-Шаблоны представлены на двух языках: Python и Go. Шаблоны для Go расположены в папках homework#-go.
+# nastya's repository cs102
+## Simonenko Anastassia
+## group: K3141
+ [teachers repository](https://github.com/Dementiy/pybook-assignments "Click the link to get to the teachers repository")
